@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vr836qApuxOmc01VnDpYQIGykCfMwPee5CneFPPpf8xvwPlffbi6G5wu2cw25u5JVkf0ZZXKVGkYXlbHovRKQ==",
+  "success": true,
+  "projectFilePath": "D:\\College Materials\\Year 2\\Assignments [delivered]\\files_assignment2\\ShoppingSystem\\ShoppingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abeer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\abeer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\abeer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\abeer\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

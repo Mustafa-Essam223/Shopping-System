@@ -1,0 +1,40 @@
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csproj.CoreCompileInputs.cache
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfoInputs.cache
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfo.cs
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.exe
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.deps.json
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.json
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.dev.json
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.dll
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.pdb
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.dll
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.pdb
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.genruntimeconfig.cache
+C:\Users\abeer\Desktop\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csprojAssemblyReference.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.exe
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.deps.json
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.json
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.dev.json
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.dll
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.pdb
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csprojAssemblyReference.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfoInputs.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfo.cs
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csproj.CoreCompileInputs.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.dll
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.pdb
+C:\Users\abeer\Desktop\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.genruntimeconfig.cache
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.exe
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.deps.json
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.json
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.dev.json
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.dll
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.pdb
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csproj.AssemblyReference.cache
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfoInputs.cache
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfo.cs
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csproj.CoreCompileInputs.cache
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.dll
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.pdb
+D:\College Materials\Year 2\Assignments [delivered]\files_assignment2\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.genruntimeconfig.cache
